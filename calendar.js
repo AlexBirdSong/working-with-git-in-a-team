@@ -62,4 +62,5 @@ function createCalendar(elem, year, month){
 
 let elem = document.getElementById('cal');
 
- createCalendar(elem, 2020, 8);// пидарасы
+ createCalendar(elem, 2020, 9);
+
